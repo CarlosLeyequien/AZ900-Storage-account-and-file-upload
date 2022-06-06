@@ -56,7 +56,7 @@ How to create a storage account in Azure and upload files
 
   5) Clcik on "create"
 
-** How to upload a file**
+**How to upload a file**
 
   1) You need to be inside the Storage account, where the containers are stored, you will see the names of the containers you have created:
 
