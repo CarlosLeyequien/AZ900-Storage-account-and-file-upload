@@ -2,7 +2,7 @@
 How to create a storage account in Azure and upload files
 
   1) Search for "storage" in portal.azure.com and click on "storage accounts"
-  2) 
+  
   ![image](https://user-images.githubusercontent.com/105960409/172257050-822b3cc1-d750-4ead-abb6-5c4ab67dab59.png)
   
   2)Click on the +Create symbol 
