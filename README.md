@@ -5,11 +5,11 @@ How to create a storage account in Azure and upload files
   
   ![image](https://user-images.githubusercontent.com/105960409/172257050-822b3cc1-d750-4ead-abb6-5c4ab67dab59.png)
   
-  2)Click on the +Create symbol 
+  2) Click on the +Create symbol 
   
   ![image](https://user-images.githubusercontent.com/105960409/172257154-371666ab-38d0-4ea1-911a-5c3ab877a875.png)
   
-  3)Choose subscription, Resource group(Or create a new one), storage name, region, Performance and redundancy
+  3) Choose subscription, Resource group(Or create a new one), storage name, region, Performance and redundancy
   
   ![image](https://user-images.githubusercontent.com/105960409/172257275-51cdf4c5-9905-4faa-81fe-3e1fa78833d7.png)
     
@@ -18,7 +18,7 @@ How to create a storage account in Azure and upload files
     3.3 Redundancy = locally(backup stored in local server), geo redundant (backup stored in another region), Zone redundant(Stored in the closest zone of availability), 
     Geo-Zone redundant(Stored in another region's zone of availability)
   
-  4)Choose advanced options as needed
+  4) Choose advanced options as needed
   
   ![image](https://user-images.githubusercontent.com/105960409/172257893-702886a1-40dc-47c8-b02a-37d17f9461ea.png)
 
